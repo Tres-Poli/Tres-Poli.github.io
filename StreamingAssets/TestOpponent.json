@@ -1,0 +1,9 @@
+{
+	"name" : "TestOpponent1",
+	"best_round" : 
+	{
+		"score" : 20,
+		"time" : 80,
+		"is_dead" : true
+	}
+}
