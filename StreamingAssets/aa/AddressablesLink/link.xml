@@ -9,6 +9,7 @@
     <type fullname="DataClasses.ShadowPlayStateRecord" preserve="nothing" serialized="true" />
     <type fullname="Gameplay.RoundManager/ShadowPlayData" preserve="nothing" serialized="true" />
     <type fullname="Gameplay.RoundManager/ShadowPlayDataWithinRound" preserve="nothing" serialized="true" />
+    <type fullname="RoundUnit" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
