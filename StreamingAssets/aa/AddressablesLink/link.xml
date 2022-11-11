@@ -6,10 +6,6 @@
     <type fullname="Tools.SceneLoader" preserve="all" />
     <type fullname="Values.BoolValue_SO" preserve="all" />
     <type fullname="Values.IntValue_SO" preserve="all" />
-    <type fullname="DataClasses.ShadowPlayStateRecord" preserve="nothing" serialized="true" />
-    <type fullname="Gameplay.RoundManager/ShadowPlayData" preserve="nothing" serialized="true" />
-    <type fullname="Gameplay.RoundManager/ShadowPlayDataWithinRound" preserve="nothing" serialized="true" />
-    <type fullname="RoundUnit" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -23,7 +19,5 @@
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Object" preserve="all" />
-    <type fullname="UnityEngine.Sprite" preserve="all" />
-    <type fullname="UnityEngine.Texture2D" preserve="all" />
   </assembly>
 </linker>
